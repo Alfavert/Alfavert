@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on qr-code generator on GoLang with authorization.<br>(GoLang, RabbitMQ, PostgreSQL, Redis, Docker, Docker-Compose, gRPC, Swagger)<br>📚 Graduated from Moscow Aviation Institute in the field of computer science and engineering<br>
+
 
 
 ## 🌐 Socials:
